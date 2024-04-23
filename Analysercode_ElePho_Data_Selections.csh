@@ -6,7 +6,7 @@ foreach k ( Era_B Era_C Era_D Era_E Era_F )
 
 #setenv sourceDir1 ${DatanTuplesDir1}/${k}/
 #setenv Path1 ${Source1}/${k}/
-
+# ankaur
 #ankaur changes
 #setenv DatanTuplesDir /uscms_data/d3/ankaur/ZGAMMA_2021/Analyser_Data_ZGamma_2017/CMSSW_10_2_10/src/Data
 #setenv Source /uscms_data/d3/ankaur/ZGAMMA_2021/Analyser_Data_ZGamma_2017/CMSSW_10_2_10/src/Data
